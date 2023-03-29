@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: geomet
+Version: 1.0.0
+Summary: Conversion library for common geospatial data formats (GeoJSON/WKT/EWKT/WKB/EWKB/GeoPackage/EsriJson)
+Home-page: https://github.com/geomet/geomet
+Maintainer: Lars Butler
+Maintainer-email: lars.butler@gmail.com
+License: Apache 2.0
+Keywords: esri,ewkb,ewkt,geojson,geopackage,geospatial,gis,spatial,wkb,wkt
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: GIS
+Requires-Python: >=3.7, <4
+License-File: LICENSE
+License-File: AUTHORS.txt
+Requires-Dist: click
+Requires-Dist: six
+
+
+GeoMet
+
+Convert GeoJSON to WKT/WKB (Well-Known Text/Binary), and vice versa.
+
+
