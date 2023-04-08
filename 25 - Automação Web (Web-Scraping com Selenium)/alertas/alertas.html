@@ -1,0 +1,29 @@
+<html>
+<head>
+</head>
+<body>
+<div style='margin: 10px'>
+<input type="button" value="Alerta Basico" onclick="alert('Formulario Enviado com Sucesso!')">
+</div>
+<div style='margin: 10px'>
+<input type="button" value="Confirmacao" onclick="confirm('Quer confirmar a emissão da NF?')">
+</div>
+<div style='margin: 10px'>
+<button onclick="myFunction()"name ="employeeLogin">Alerta com Input</button>
+
+<p id="msg">
+</p>
+
+<script>
+function myFunction() {
+ var login = prompt("Preencha seu CPF para continuar", "");
+ 
+ if (login != null) {
+ document.getElementById("msg").innerHTML =
+ "CPF: " + login + "!! Loucura Loucura?";
+ }
+}
+</script></div>
+</body>
+</html>
+
