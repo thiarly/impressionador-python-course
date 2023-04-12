@@ -1,0 +1,4 @@
+[4592:259:0411/153014.902595:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 112.0.5615.49 (not a warning)
+[4592:64259:0411/153015.230858:ERROR:trust_store_mac.cc(844)] Error parsing certificate:
+ERROR: Failed parsing certificate policies
+
