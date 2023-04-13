@@ -10,3 +10,5 @@ contagem = tabela["Region"].value_counts()
 fig, eixo = plt.subplots()
 contagem.plot(ax=eixo)
 pyscript.write("grafico_qtde", fig)
+
+
