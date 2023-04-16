@@ -1,0 +1,23 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+<script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <py-env>
+        - pandas
+    </py-env>
+</head>
+
+
+
+<body>
+<h1>Importando biblioteca usando pyenv</h1>
+<py-script>
+    import pandas as pd
+    from pyodide.http import open_url
+    link = open_url("https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv")
+    tabela = pd.read_csv(link)
+    tabela
+</py-script>
+</body>
+
+</html>
