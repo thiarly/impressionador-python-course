@@ -1,0 +1,77 @@
+('/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+ 'Transformando Python em exe/build/Gabarito - Python e SMS 01/Gabarito - '
+ 'Python e SMS 01.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/build/Gabarito - Python e SMS 01/PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/build/Gabarito - Python e SMS '
+   '01/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/build/Gabarito - Python e SMS '
+   '01/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/build/Gabarito - Python e SMS '
+   '01/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/build/Gabarito - Python e SMS '
+   '01/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('Gabarito - Python e SMS 01',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/Gabarito - Python e SMS 01.py',
+   'PYSOURCE'),
+  ('lib-dynload/_struct.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_struct.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/zlib.cpython-39-darwin.so',
+   'EXTENSION')],
+ True,
+ False,
+ False,
+ [],
+ 'x86_64',
+ None,
+ None)

@@ -1,0 +1,3215 @@
+([('Gabarito - Python e SMS 01',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/build/Gabarito - Python e SMS 01/Gabarito - '
+   'Python e SMS 01',
+   'EXECUTABLE'),
+  ('lib-dynload/_struct.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_struct.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/zlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_pickle.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_pickle.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_hashlib.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_hashlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha3.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_sha3.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_blake2.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_blake2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha512.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_sha512.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha256.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_sha256.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_md5.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_md5.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha1.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_sha1.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_statistics.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_statistics.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_contextvars.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_contextvars.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_decimal.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_decimal.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_random.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_random.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bisect.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_bisect.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/math.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/math.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_uuid.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_uuid.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/array.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/array.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/select.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/select.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_socket.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_socket.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/grp.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/grp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/resource.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/resource.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_lzma.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_lzma.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bz2.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_bz2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/binascii.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/binascii.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_ssl.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_ssl.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/termios.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/termios.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_csv.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_csv.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/readline.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/readline.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_opcode.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_opcode.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_datetime.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_datetime.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_ctypes.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_ctypes.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/pyexpat.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/pyexpat.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_multiprocessing.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_multiprocessing.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixshmem.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_posixshmem.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/mmap.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/mmap.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_queue.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_queue.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_heapq.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_heapq.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/unicodedata.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/unicodedata.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_scproxy.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_scproxy.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('charset_normalizer/md__mypyc.cpython-39-darwin.so',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/charset_normalizer/md__mypyc.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('charset_normalizer/md.cpython-39-darwin.so',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/charset_normalizer/md.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_json.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_json.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_asyncio.cpython-39-darwin.so',
+   '/Users/thiarly/opt/anaconda3/lib/python3.9/lib-dynload/_asyncio.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('libcrypto.1.1.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/libcrypto.1.1.dylib',
+   'BINARY'),
+  ('liblzma.5.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/liblzma.5.dylib',
+   'BINARY'),
+  ('libz.1.dylib', '/Users/thiarly/opt/anaconda3/lib/libz.1.dylib', 'BINARY'),
+  ('libssl.1.1.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/libssl.1.1.dylib',
+   'BINARY'),
+  ('libreadline.8.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/libreadline.8.dylib',
+   'BINARY'),
+  ('libffi.7.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/libffi.7.dylib',
+   'BINARY'),
+  ('libncursesw.6.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/libncursesw.6.dylib',
+   'BINARY'),
+  ('libtinfow.6.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/libtinfow.6.dylib',
+   'BINARY'),
+  ('libpython3.9.dylib',
+   '/Users/thiarly/opt/anaconda3/lib/libpython3.9.dylib',
+   'BINARY'),
+  ('base_library.zip',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em exe/build/Gabarito - Python e SMS '
+   '01/base_library.zip',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Riga',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Riga',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Cordoba',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Cordoba',
+   'DATA'),
+  ('pytz/zoneinfo/HST',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/HST',
+   'DATA'),
+  ('pytz/zoneinfo/America/Panama',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Panama',
+   'DATA'),
+  ('pytz/zoneinfo/UTC',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/UTC',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Tell_City',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Tell_City',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Macao',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Macao',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cancun',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Cancun',
+   'DATA'),
+  ('pytz/zoneinfo/US/Aleutian',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Aleutian',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Jersey',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Jersey',
+   'DATA'),
+  ('pytz/zoneinfo/America/Manaus',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Manaus',
+   'DATA'),
+  ('pytz/zoneinfo/America/Eirunepe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Eirunepe',
+   'DATA'),
+  ('pytz/zoneinfo/America/Recife',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Recife',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/East',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Brazil/East',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Samoa',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Samoa',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Istanbul',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Istanbul',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dubai',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Dubai',
+   'DATA'),
+  ('pytz/zoneinfo/America/Anguilla',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Anguilla',
+   'DATA'),
+  ('pytz/zoneinfo/America/Dominica',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Dominica',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Calcutta',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Calcutta',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Budapest',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Budapest',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Darwin',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Darwin',
+   'DATA'),
+  ('pytz/zoneinfo/America/New_York',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/New_York',
+   'DATA'),
+  ('pytz/zoneinfo/America/Halifax',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Halifax',
+   'DATA'),
+  ('pytz/zoneinfo/NZ-CHAT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/NZ-CHAT',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/Universal',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/Universal',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Phnom_Penh',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Phnom_Penh',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Nairobi',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Nairobi',
+   'DATA'),
+  ('pytz/zoneinfo/America/Moncton',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Moncton',
+   'DATA'),
+  ('pytz/zoneinfo/Japan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Japan',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Ljubljana',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Ljubljana',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Rio_Gallegos',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Rio_Gallegos',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Warsaw',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Warsaw',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Nauru',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Nauru',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vatican',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Vatican',
+   'DATA'),
+  ('pytz/zoneinfo/GMT-0',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/GMT-0',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Berlin',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Berlin',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Brunei',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Brunei',
+   'DATA'),
+  ('pytz/zoneinfo/America/Havana',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Havana',
+   'DATA'),
+  ('pytz/zoneinfo/America/Swift_Current',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Swift_Current',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Eastern',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Eastern',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kathmandu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kathmandu',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Istanbul',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Istanbul',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Windhoek',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Windhoek',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rosario',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Rosario',
+   'DATA'),
+  ('pytz/zoneinfo/America/Punta_Arenas',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Punta_Arenas',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Barthelemy',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/St_Barthelemy',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Blantyre',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Blantyre',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Victoria',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Victoria',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+3',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+3',
+   'DATA'),
+  ('pytz/zoneinfo/Iran',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Iran',
+   'DATA'),
+  ('pytz/zoneinfo/Israel',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Israel',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Omsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Omsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Phoenix',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Phoenix',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Mbabane',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Mbabane',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Dublin',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Dublin',
+   'DATA'),
+  ('pytz/zoneinfo/PST8PDT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/PST8PDT',
+   'DATA'),
+  ('pytz/zoneinfo/America/Monterrey',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Monterrey',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Bishkek',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Bishkek',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Monaco',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Monaco',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Manila',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Manila',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Adelaide',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Adelaide',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Ouagadougou',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Ouagadougou',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+12',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+12',
+   'DATA'),
+  ('pytz/zoneinfo/America/Belize',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Belize',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dili',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Dili',
+   'DATA'),
+  ('certifi/cacert.pem',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/certifi/cacert.pem',
+   'DATA'),
+  ('pytz/zoneinfo/America/Bahia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Bahia',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Abidjan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Abidjan',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Christmas',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Christmas',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Stockholm',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Stockholm',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Maputo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Maputo',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Urumqi',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Urumqi',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Zaporozhye',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Zaporozhye',
+   'DATA'),
+  ('pytz/zoneinfo/America/Dawson_Creek',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Dawson_Creek',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/London',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/London',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Bougainville',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Bougainville',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Damascus',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Damascus',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Katmandu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Katmandu',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+2',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+2',
+   'DATA'),
+  ('pytz/zoneinfo/America/Maceio',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Maceio',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nome',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Nome',
+   'DATA'),
+  ('pytz/zoneinfo/Egypt',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Egypt',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vaduz',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Vaduz',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Newfoundland',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Newfoundland',
+   'DATA'),
+  ('pytz/zoneinfo/GMT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/GMT',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Malabo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Malabo',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Nicosia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Nicosia',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Reunion',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Reunion',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Chatham',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Chatham',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Chuuk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Chuuk',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Oslo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Oslo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Kentucky/Monticello',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Kentucky/Monticello',
+   'DATA'),
+  ('pytz/zoneinfo/US/Alaska',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Alaska',
+   'DATA'),
+  ('pytz/zoneinfo/Mexico/BajaSur',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Mexico/BajaSur',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guadeloupe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Guadeloupe',
+   'DATA'),
+  ('pytz/zoneinfo/America/Ciudad_Juarez',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Ciudad_Juarez',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Irkutsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Irkutsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Godthab',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Godthab',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-12',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-12',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/NSW',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/NSW',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Currie',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Currie',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kwajalein',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Kwajalein',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-3',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-3',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Auckland',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Auckland',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rainy_River',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Rainy_River',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Ushuaia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Ushuaia',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Gaborone',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Gaborone',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Wallis',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Wallis',
+   'DATA'),
+  ('pytz/zoneinfo/America/Iqaluit',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Iqaluit',
+   'DATA'),
+  ('pytz/zoneinfo/America/Belem',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Belem',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nipigon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Nipigon',
+   'DATA'),
+  ('pytz/zoneinfo/EET',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/EET',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Khartoum',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Khartoum',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+11',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+11',
+   'DATA'),
+  ('pytz/zoneinfo/America/Puerto_Rico',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Puerto_Rico',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Lisbon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Lisbon',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Palmer',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Palmer',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Vostok',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Vostok',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Vincennes',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Vincennes',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ulaanbaatar',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Ulaanbaatar',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Jayapura',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Jayapura',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tashkent',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Tashkent',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Novosibirsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Novosibirsk',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Port_Moresby',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Port_Moresby',
+   'DATA'),
+  ('pytz/zoneinfo/America/Juneau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Juneau',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kolkata',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kolkata',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/Greenwich',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/Greenwich',
+   'DATA'),
+  ('pytz/zoneinfo/America/Regina',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Regina',
+   'DATA'),
+  ('pytz/zoneinfo/UCT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/UCT',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/DeNoronha',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Brazil/DeNoronha',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Hobart',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Hobart',
+   'DATA'),
+  ('pytz/zoneinfo/America/Grenada',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Grenada',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Mogadishu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Mogadishu',
+   'DATA'),
+  ('pytz/zoneinfo/America/Porto_Velho',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Porto_Velho',
+   'DATA'),
+  ('pytz/zoneinfo/America/Virgin',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Virgin',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Casey',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Casey',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Tripoli',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Tripoli',
+   'DATA'),
+  ('pytz/zoneinfo/Jamaica',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Jamaica',
+   'DATA'),
+  ('pytz/zoneinfo/America/Glace_Bay',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Glace_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Addis_Ababa',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Addis_Ababa',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bissau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Bissau',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Atlantic',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Atlantic',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Beirut',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Beirut',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+5',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+5',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kashgar',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kashgar',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Tahiti',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Tahiti',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Srednekolymsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Srednekolymsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Detroit',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Detroit',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Harbin',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Harbin',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Palau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Palau',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ujung_Pandang',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Ujung_Pandang',
+   'DATA'),
+  ('pytz/zoneinfo/America/Kralendijk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Kralendijk',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Volgograd',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Volgograd',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Cape_Verde',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Cape_Verde',
+   'DATA'),
+  ('pytz/zoneinfo/America/Kentucky/Louisville',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Kentucky/Louisville',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Rothera',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Rothera',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-8',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-8',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Enderbury',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Enderbury',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cayenne',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Cayenne',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Galapagos',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Galapagos',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Amman',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Amman',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Pontianak',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Pontianak',
+   'DATA'),
+  ('certifi/py.typed',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/certifi/py.typed',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Famagusta',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Famagusta',
+   'DATA'),
+  ('pytz/zoneinfo/Cuba',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Cuba',
+   'DATA'),
+  ('pytz/zoneinfo/America/Atikokan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Atikokan',
+   'DATA'),
+  ('pytz/zoneinfo/America/Paramaribo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Paramaribo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Mazatlan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Mazatlan',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ulan_Bator',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Ulan_Bator',
+   'DATA'),
+  ('pytz/zoneinfo/WET',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/WET',
+   'DATA'),
+  ('pytz/zoneinfo/America/Campo_Grande',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Campo_Grande',
+   'DATA'),
+  ('pytz/zoneinfo/Navajo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Navajo',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kabul',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kabul',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Lindeman',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Lindeman',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tokyo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Tokyo',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lome',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Lome',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Belgrade',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Belgrade',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Tongatapu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Tongatapu',
+   'DATA'),
+  ('pytz/zoneinfo/America/Bahia_Banderas',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Bahia_Banderas',
+   'DATA'),
+  ('pytz/zoneinfo/America/Vancouver',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Vancouver',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Pohnpei',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Pohnpei',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Hebron',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Hebron',
+   'DATA'),
+  ('pytz/zoneinfo/America/Asuncion',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Asuncion',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rio_Branco',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Rio_Branco',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Salta',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Salta',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Johns',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/St_Johns',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Chungking',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Chungking',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Comoro',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Comoro',
+   'DATA'),
+  ('pytz/zoneinfo/America/Antigua',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Antigua',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Colombo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Colombo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Edmonton',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Edmonton',
+   'DATA'),
+  ('pytz/zoneinfo/zone1970.tab',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/zone1970.tab',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Brazzaville',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Brazzaville',
+   'DATA'),
+  ('pytz/zoneinfo/America/Port-au-Prince',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Port-au-Prince',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-1',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-1',
+   'DATA'),
+  ('pytz/zoneinfo/America/Miquelon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Miquelon',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT0',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT0',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Rome',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Rome',
+   'DATA'),
+  ('pytz/zoneinfo/America/Sao_Paulo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Sao_Paulo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Yellowknife',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Yellowknife',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Minsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Minsk',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Easter',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Easter',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Buenos_Aires',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Buenos_Aires',
+   'DATA'),
+  ('pytz/zoneinfo/America/Chicago',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Chicago',
+   'DATA'),
+  ('pytz/zoneinfo/America/North_Dakota/New_Salem',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/North_Dakota/New_Salem',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Singapore',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Singapore',
+   'DATA'),
+  ('pytz/zoneinfo/America/Goose_Bay',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Goose_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/America/Chihuahua',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Chihuahua',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ust-Nera',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Ust-Nera',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Queensland',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Queensland',
+   'DATA'),
+  ('pytz/zoneinfo/America/Tegucigalpa',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Tegucigalpa',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Banjul',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Banjul',
+   'DATA'),
+  ('pytz/zoneinfo/America/Catamarca',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Catamarca',
+   'DATA'),
+  ('pytz/zoneinfo/America/Lima',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Lima',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Qostanay',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Qostanay',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Almaty',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Almaty',
+   'DATA'),
+  ('pytz/zoneinfo/ROK',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/ROK',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Maldives',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Maldives',
+   'DATA'),
+  ('pytz/zoneinfo/America/Los_Angeles',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Los_Angeles',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Chisinau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Chisinau',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Knox',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Knox',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Yap',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Yap',
+   'DATA'),
+  ('pytz/zoneinfo/America/Denver',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Denver',
+   'DATA'),
+  ('pytz/zoneinfo/America/Fort_Wayne',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Fort_Wayne',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Chongqing',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Chongqing',
+   'DATA'),
+  ('pytz/zoneinfo/US/Central',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Central',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kaliningrad',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Kaliningrad',
+   'DATA'),
+  ('pytz/zoneinfo/America/Pangnirtung',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Pangnirtung',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Mauritius',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Mauritius',
+   'DATA'),
+  ('pytz/zoneinfo/America/Merida',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Merida',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/DumontDUrville',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/DumontDUrville',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-2',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-2',
+   'DATA'),
+  ('pytz/zoneinfo/Iceland',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Iceland',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Baghdad',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Baghdad',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Choibalsan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Choibalsan',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Gaza',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Gaza',
+   'DATA'),
+  ('pytz/zoneinfo/Zulu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Zulu',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Thomas',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/St_Thomas',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Zurich',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Zurich',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Brussels',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Brussels',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lubumbashi',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Lubumbashi',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Douala',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Douala',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tomsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Tomsk',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+1',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+1',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Bratislava',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Bratislava',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Moscow',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Moscow',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rankin_Inlet',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Rankin_Inlet',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/ACT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/ACT',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Guam',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Guam',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Tunis',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Tunis',
+   'DATA'),
+  ('pytz/zoneinfo/US/Mountain',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Mountain',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-13',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-13',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Djibouti',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Djibouti',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yangon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Yangon',
+   'DATA'),
+  ('pytz/zoneinfo/America/Araguaina',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Araguaina',
+   'DATA'),
+  ('pytz/zoneinfo/Greenwich',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Greenwich',
+   'DATA'),
+  ('pytz/zoneinfo/GMT+0',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/GMT+0',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Krasnoyarsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Krasnoyarsk',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Chita',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Chita',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Belfast',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Belfast',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/LHI',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/LHI',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Mariehamn',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Mariehamn',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Rangoon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Rangoon',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Winamac',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Winamac',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Hovd',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Hovd',
+   'DATA'),
+  ('pytz/zoneinfo/America/Port_of_Spain',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Port_of_Spain',
+   'DATA'),
+  ('pytz/zoneinfo/America/Barbados',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Barbados',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Vevay',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Vevay',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Athens',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Athens',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Jerusalem',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Jerusalem',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/UCT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/UCT',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Kerguelen',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Kerguelen',
+   'DATA'),
+  ('pytz/zoneinfo/CET',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/CET',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cordoba',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Cordoba',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+10',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+10',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Harare',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Harare',
+   'DATA'),
+  ('pytz/zoneinfo/America/Adak',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Adak',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Maseru',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Maseru',
+   'DATA'),
+  ('pytz/zoneinfo/America/Whitehorse',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Whitehorse',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nassau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Nassau',
+   'DATA'),
+  ('pytz/zoneinfo/America/Anchorage',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Anchorage',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/South_Georgia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/South_Georgia',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bangui',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Bangui',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Baku',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Baku',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santa_Isabel',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Santa_Isabel',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/Acre',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Brazil/Acre',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Petersburg',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Petersburg',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/South',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/South',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Azores',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Azores',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Shanghai',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Shanghai',
+   'DATA'),
+  ('pytz/zoneinfo/America/Boa_Vista',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Boa_Vista',
+   'DATA'),
+  ('pytz/zoneinfo/GB',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/GB',
+   'DATA'),
+  ('pytz/zoneinfo/Chile/Continental',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Chile/Continental',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Busingen',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Busingen',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yekaterinburg',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Yekaterinburg',
+   'DATA'),
+  ('pytz/zoneinfo/America/Danmarkshavn',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Danmarkshavn',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Yancowinna',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Yancowinna',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Prague',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Prague',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Ponape',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Ponape',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-4',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-4',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Tucuman',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Tucuman',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Mountain',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Mountain',
+   'DATA'),
+  ('pytz/zoneinfo/America/Metlakatla',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Metlakatla',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Luanda',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Luanda',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Mahe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Mahe',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Bermuda',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Bermuda',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Lucia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/St_Lucia',
+   'DATA'),
+  ('pytz/zoneinfo/MST',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/MST',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Catamarca',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Catamarca',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+0',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+0',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Asmara',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Asmara',
+   'DATA'),
+  ('pytz/zoneinfo/America/Ojinaga',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Ojinaga',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-7',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-7',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santo_Domingo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Santo_Domingo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Noronha',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Noronha',
+   'DATA'),
+  ('pytz/zoneinfo/America/Toronto',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Toronto',
+   'DATA'),
+  ('pytz/zoneinfo/America/Creston',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Creston',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Nicosia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Nicosia',
+   'DATA'),
+  ('pytz/zoneinfo/America/Porto_Acre',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Porto_Acre',
+   'DATA'),
+  ('pytz/zoneinfo/America/Bogota',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Bogota',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Zagreb',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Zagreb',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Gibraltar',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Gibraltar',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Juba',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Juba',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vienna',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Vienna',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dushanbe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Dushanbe',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Lord_Howe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Lord_Howe',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Indianapolis',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Indianapolis',
+   'DATA'),
+  ('pytz/zoneinfo/iso3166.tab',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/iso3166.tab',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Podgorica',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Podgorica',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Simferopol',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Simferopol',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Efate',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Efate',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-5',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-5',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Anadyr',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Anadyr',
+   'DATA'),
+  ('pytz/zoneinfo/America/Boise',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Boise',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Asmera',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Asmera',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Jakarta',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Jakarta',
+   'DATA'),
+  ('pytz/zoneinfo/Turkey',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Turkey',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Jujuy',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Jujuy',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Tarawa',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Tarawa',
+   'DATA'),
+  ('pytz/zoneinfo/America/Costa_Rica',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Costa_Rica',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-11',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-11',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/La_Rioja',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/La_Rioja',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Qatar',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Qatar',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Sao_Tome',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Sao_Tome',
+   'DATA'),
+  ('pytz/zoneinfo/America/Thule',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Thule',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Madrid',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Madrid',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Faeroe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Faeroe',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Casablanca',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Casablanca',
+   'DATA'),
+  ('pytz/zoneinfo/US/East-Indiana',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/East-Indiana',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Mendoza',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/Mendoza',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Bangkok',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Bangkok',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Marquesas',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Marquesas',
+   'DATA'),
+  ('pytz/zoneinfo/Kwajalein',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Kwajalein',
+   'DATA'),
+  ('pytz/zoneinfo/Hongkong',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Hongkong',
+   'DATA'),
+  ('pytz/zoneinfo/America/Fort_Nelson',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Fort_Nelson',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Nouakchott',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Nouakchott',
+   'DATA'),
+  ('pytz/zoneinfo/US/Arizona',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Arizona',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Syowa',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Syowa',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dacca',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Dacca',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lagos',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Lagos',
+   'DATA'),
+  ('pytz/zoneinfo/America/Curacao',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Curacao',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Gambier',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Gambier',
+   'DATA'),
+  ('pytz/zoneinfo/CST6CDT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/CST6CDT',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Niamey',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Niamey',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Helsinki',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Helsinki',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cambridge_Bay',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Cambridge_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/UTC',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/UTC',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Truk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Truk',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yakutsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Yakutsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Tijuana',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Tijuana',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Freetown',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Freetown',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Vientiane',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Vientiane',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kanton',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Kanton',
+   'DATA'),
+  ('pytz/zoneinfo/America/Mendoza',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Mendoza',
+   'DATA'),
+  ('pytz/zoneinfo/America/Atka',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Atka',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Malta',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Malta',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/McMurdo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/McMurdo',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vilnius',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Vilnius',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Fakaofo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Fakaofo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Mexico_City',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Mexico_City',
+   'DATA'),
+  ('pytz/zoneinfo/America/Yakutat',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Yakutat',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Cairo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Cairo',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Davis',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Davis',
+   'DATA'),
+  ('pytz/zoneinfo/America/Resolute',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Resolute',
+   'DATA'),
+  ('pytz/zoneinfo/US/Hawaii',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Hawaii',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Skopje',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Skopje',
+   'DATA'),
+  ('pytz/zoneinfo/America/Tortola',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Tortola',
+   'DATA'),
+  ('pytz/zoneinfo/America/Thunder_Bay',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Thunder_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kuwait',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kuwait',
+   'DATA'),
+  ('pytz/zoneinfo/America/Blanc-Sablon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Blanc-Sablon',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Khandyga',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Khandyga',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+8',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+8',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Samarkand',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Samarkand',
+   'DATA'),
+  ('pytz/zoneinfo/America/Montserrat',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Montserrat',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Timbuktu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Timbuktu',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Norfolk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Norfolk',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Tasmania',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Tasmania',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Sarajevo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Sarajevo',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+9',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+9',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Andorra',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Andorra',
+   'DATA'),
+  ('pytz/zoneinfo/America/Winnipeg',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Winnipeg',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Accra',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Accra',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Marengo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indiana/Marengo',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Pitcairn',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Pitcairn',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Ceuta',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Ceuta',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ashkhabad',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Ashkhabad',
+   'DATA'),
+  ('pytz/zoneinfo/GMT0',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/GMT0',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Novokuznetsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Novokuznetsk',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Paris',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Paris',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bujumbura',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Bujumbura',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Tirane',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Tirane',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Riyadh',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Riyadh',
+   'DATA'),
+  ('pytz/zoneinfo/Arctic/Longyearbyen',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Arctic/Longyearbyen',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Dar_es_Salaam',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Dar_es_Salaam',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yerevan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Yerevan',
+   'DATA'),
+  ('pytz/zoneinfo/America/Dawson',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Dawson',
+   'DATA'),
+  ('pytz/zoneinfo/America/Aruba',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Aruba',
+   'DATA'),
+  ('pytz/zoneinfo/Mexico/General',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Mexico/General',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kuala_Lumpur',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kuala_Lumpur',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Reykjavik',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Reykjavik',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Johannesburg',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Johannesburg',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Aden',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Aden',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Tiraspol',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Tiraspol',
+   'DATA'),
+  ('pytz/zoneinfo/America/Inuvik',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Inuvik',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Rarotonga',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Rarotonga',
+   'DATA'),
+  ('pytz/zoneinfo/GB-Eire',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/GB-Eire',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Saskatchewan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Saskatchewan',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Kinshasa',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Kinshasa',
+   'DATA'),
+  ('pytz/zoneinfo/America/Sitka',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Sitka',
+   'DATA'),
+  ('pytz/zoneinfo/America/Lower_Princes',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Lower_Princes',
+   'DATA'),
+  ('pytz/zoneinfo/America/Scoresbysund',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Scoresbysund',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/South_Pole',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/South_Pole',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Bucharest',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Bucharest',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/ComodRivadavia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/ComodRivadavia',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Uzhgorod',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Uzhgorod',
+   'DATA'),
+  ('pytz/zoneinfo/America/Jamaica',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Jamaica',
+   'DATA'),
+  ('pytz/zoneinfo/US/Pacific',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Pacific',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Honolulu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Honolulu',
+   'DATA'),
+  ('pytz/zoneinfo/Poland',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Poland',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Luxembourg',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Luxembourg',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Thimbu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Thimbu',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kuching',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kuching',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Kampala',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Kampala',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Thimphu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Thimphu',
+   'DATA'),
+  ('pytz/zoneinfo/America/Louisville',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Louisville',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Canberra',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Canberra',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Canary',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Canary',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kosrae',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Kosrae',
+   'DATA'),
+  ('pytz/zoneinfo/America/Fortaleza',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Fortaleza',
+   'DATA'),
+  ('pytz/zoneinfo/EST5EDT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/EST5EDT',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Vladivostok',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Vladivostok',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/San_Juan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/San_Juan',
+   'DATA'),
+  ('pytz/zoneinfo/leapseconds',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/leapseconds',
+   'DATA'),
+  ('pytz/zoneinfo/America/La_Paz',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/La_Paz',
+   'DATA'),
+  ('pytz/zoneinfo/US/Michigan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Michigan',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Dakar',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Dakar',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Muscat',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Muscat',
+   'DATA'),
+  ('pytz/zoneinfo/America/Coral_Harbour',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Coral_Harbour',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Algiers',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Algiers',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dhaka',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Dhaka',
+   'DATA'),
+  ('pytz/zoneinfo/America/Montevideo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Montevideo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indianapolis',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Indianapolis',
+   'DATA'),
+  ('pytz/zoneinfo/America/Montreal',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Montreal',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tehran',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Tehran',
+   'DATA'),
+  ('pytz/zoneinfo/PRC',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/PRC',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Amsterdam',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Amsterdam',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tbilisi',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Tbilisi',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/San_Luis',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Argentina/San_Luis',
+   'DATA'),
+  ('pytz/zoneinfo/Eire',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Eire',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Chagos',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Chagos',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Eucla',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Eucla',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-0',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-0',
+   'DATA'),
+  ('pytz/zoneinfo/Singapore',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Singapore',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Taipei',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Taipei',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Midway',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Midway',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Jan_Mayen',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Jan_Mayen',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Pacific',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Pacific',
+   'DATA'),
+  ('pytz/zoneinfo/US/Indiana-Starke',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Indiana-Starke',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santiago',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Santiago',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Isle_of_Man',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Isle_of_Man',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Guernsey',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Guernsey',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bamako',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Bamako',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Mawson',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Mawson',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+7',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+7',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Brisbane',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Brisbane',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Central',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Central',
+   'DATA'),
+  ('pytz/zoneinfo/America/Buenos_Aires',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Buenos_Aires',
+   'DATA'),
+  ('pytz/zoneinfo/Universal',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Universal',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Samara',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Samara',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Macau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Macau',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Saratov',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Saratov',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Sydney',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Sydney',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Saigon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Saigon',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Niue',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Niue',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Ndjamena',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Ndjamena',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Saipan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Saipan',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Hong_Kong',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Hong_Kong',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nuuk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Nuuk',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Sakhalin',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Sakhalin',
+   'DATA'),
+  ('pytz/zoneinfo/US/Samoa',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Samoa',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/West',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/West',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kiev',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Kiev',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Pyongyang',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Pyongyang',
+   'DATA'),
+  ('pytz/zoneinfo/America/Caracas',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Caracas',
+   'DATA'),
+  ('pytz/zoneinfo/tzdata.zi',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/tzdata.zi',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Perth',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Perth',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Ulyanovsk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Ulyanovsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Knox_IN',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Knox_IN',
+   'DATA'),
+  ('pytz/zoneinfo/Factory',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Factory',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Oral',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Oral',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Pago_Pago',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Pago_Pago',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Aqtau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Aqtau',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Antananarivo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Antananarivo',
+   'DATA'),
+  ('pytz/zoneinfo/Chile/EasterIsland',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Chile/EasterIsland',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Faroe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Faroe',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Porto-Novo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Porto-Novo',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-10',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-10',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Sofia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Sofia',
+   'DATA'),
+  ('pytz/zoneinfo/W-SU',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/W-SU',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Madeira',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Madeira',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Wake',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Wake',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Atyrau',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Atyrau',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Melbourne',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Melbourne',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Fiji',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Fiji',
+   'DATA'),
+  ('pytz/zoneinfo/America/Hermosillo',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Hermosillo',
+   'DATA'),
+  ('pytz/zoneinfo/NZ',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/NZ',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kyiv',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Kyiv',
+   'DATA'),
+  ('pytz/zoneinfo/America/Ensenada',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Ensenada',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Bahrain',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Bahrain',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/Zulu',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/Zulu',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/El_Aaiun',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/El_Aaiun',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Monrovia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Monrovia',
+   'DATA'),
+  ('pytz/zoneinfo/MST7MDT',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/MST7MDT',
+   'DATA'),
+  ('pytz/zoneinfo/America/Jujuy',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Jujuy',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Noumea',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Noumea',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Funafuti',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Funafuti',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ho_Chi_Minh',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Ho_Chi_Minh',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Kitts',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/St_Kitts',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Yukon',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Canada/Yukon',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/North',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/North',
+   'DATA'),
+  ('pytz/zoneinfo/America/North_Dakota/Center',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/North_Dakota/Center',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Tallinn',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Tallinn',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ashgabat',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Ashgabat',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kiritimati',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Kiritimati',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Seoul',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Seoul',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guyana',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Guyana',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-6',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-6',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kamchatka',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Kamchatka',
+   'DATA'),
+  ('pytz/zoneinfo/Libya',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Libya',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Cocos',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Cocos',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Copenhagen',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Copenhagen',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Troll',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Troll',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+6',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+6',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guatemala',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Guatemala',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cayman',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Cayman',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-14',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-14',
+   'DATA'),
+  ('pytz/zoneinfo/Mexico/BajaNorte',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Mexico/BajaNorte',
+   'DATA'),
+  ('pytz/zoneinfo/America/Martinique',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Martinique',
+   'DATA'),
+  ('pytz/zoneinfo/zone.tab',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/zone.tab',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Guadalcanal',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Guadalcanal',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santarem',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Santarem',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Stanley',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/Stanley',
+   'DATA'),
+  ('pytz/zoneinfo/America/North_Dakota/Beulah',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/North_Dakota/Beulah',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Vincent',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/St_Vincent',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/St_Helena',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Atlantic/St_Helena',
+   'DATA'),
+  ('pytz/zoneinfo/America/El_Salvador',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/El_Salvador',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kirov',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Kirov',
+   'DATA'),
+  ('pytz/zoneinfo/America/Menominee',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Menominee',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tel_Aviv',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Tel_Aviv',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/West',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Brazil/West',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Conakry',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Conakry',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Johnston',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Johnston',
+   'DATA'),
+  ('pytz/zoneinfo/America/Marigot',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Marigot',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Barnaul',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Barnaul',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Apia',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Apia',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Majuro',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Pacific/Majuro',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Astrakhan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/Astrakhan',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Macquarie',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Antarctica/Macquarie',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Makassar',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Makassar',
+   'DATA'),
+  ('pytz/zoneinfo/America/Grand_Turk',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Grand_Turk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Managua',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Managua',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Mayotte',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Indian/Mayotte',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Broken_Hill',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Australia/Broken_Hill',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/San_Marino',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Europe/San_Marino',
+   'DATA'),
+  ('pytz/zoneinfo/Portugal',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Portugal',
+   'DATA'),
+  ('pytz/zoneinfo/America/Matamoros',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Matamoros',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Karachi',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Karachi',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cuiaba',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Cuiaba',
+   'DATA'),
+  ('pytz/zoneinfo/MET',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/MET',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Magadan',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Magadan',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-9',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT-9',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lusaka',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Lusaka',
+   'DATA'),
+  ('pytz/zoneinfo/EST',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/EST',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Aqtobe',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Aqtobe',
+   'DATA'),
+  ('pytz/zoneinfo/America/Shiprock',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Shiprock',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Libreville',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Libreville',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Qyzylorda',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Asia/Qyzylorda',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+4',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Etc/GMT+4',
+   'DATA'),
+  ('pytz/zoneinfo/ROC',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/ROC',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Kigali',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/Africa/Kigali',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guayaquil',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/America/Guayaquil',
+   'DATA'),
+  ('pytz/zoneinfo/US/Eastern',
+   '/Users/thiarly/Desktop/PROJECTS/Impressionador-Python-Course/33 - '
+   'Transformando Python em '
+   'exe/venv/lib/python3.9/site-packages/pytz/zoneinfo/US/Eastern',
+   'DATA')],)
