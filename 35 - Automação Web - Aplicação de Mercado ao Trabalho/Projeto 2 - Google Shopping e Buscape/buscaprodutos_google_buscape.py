@@ -88,25 +88,26 @@ def busca_google_shopping(nav, produto, termos_banidos, preco_minimo, preco_maxi
         # Selecionar só os elementos que tem_termos_banidos = False e ao mesmo tempo tem_todos_termos_produtos = True
         #if tem_termos_banidos == False and tem_todos_termos_produtos == True:
         
-
-        if not tem_termos_banidos and tem_todos_termos_produtos:
-            preco = resultado.find_element("class name", "a8Pemb").text
-            preco = preco.replace("R$", "").replace(" ", "").replace(".", "").replace(",", ".")
-            preco = float(preco)
-            # Verificar se o preço está dentro do preço minimo e máximo
-            if preco_minimo <= preco <= preco_maximo:
-                #Lógica para pegar o link, através do parâmetro "href", não foi possível Dessa a variavel elemento_referencia recebe a ("class name", "bONr3b"), que é childre do linkE pegar o "href" atraves do parent "("xpath", "..")"
-                elemento_referencia = resultado.find_element("class name", "bONr3b")
-                elemento_pai = elemento_referencia.find_element("xpath", "..")
-                link = elemento_pai.get_attribute('href')
-                #print(preco, nome, link)
-                lista_ofertas.append((nome, preco, link))
-    
+        try:
+            if not tem_termos_banidos and tem_todos_termos_produtos:
+                preco = resultado.find_element("class name", "a8Pemb").text
+                preco = preco.replace("R$", "").replace(" ", "").replace(".", "").replace(",", ".")
+                preco = float(preco)
+                # Verificar se o preço está dentro do preço minimo e máximo
+                if preco_minimo <= preco <= preco_maximo:
+                    #Lógica para pegar o link, através do parâmetro "href", não foi possível Dessa a variavel elemento_referencia recebe a ("class name", "bONr3b"), que é childre do linkE pegar o "href" atraves do parent "("xpath", "..")"
+                    elemento_referencia = resultado.find_element("class name", "bONr3b")
+                    elemento_pai = elemento_referencia.find_element("xpath", "..")
+                    link = elemento_pai.get_attribute('href')
+                    #print(preco, nome, link)
+                    lista_ofertas.append((nome, preco, link))
+        except ValueError:
+            pass
     
     return lista_ofertas
 
 
-
+###############################################################################################################################################################################
 # DEFINIÇÃO DA FUNÇÃO BUSCA DO BUSCAPE
 
 def busca_buscape (nav, produto, termos_banidos, preco_minimo, preco_maximo):
@@ -159,7 +160,7 @@ def busca_buscape (nav, produto, termos_banidos, preco_minimo, preco_maximo):
     #Retornar a lista de ofertas do buscape
     return lista_ofertas
 
-
+##############################################################################################################################################
 # CONSTRUÇÃO DA LISTA DE OFERTAS
 tabela_ofertas = pd.DataFrame()
 
@@ -186,14 +187,51 @@ for linha in tabela_produtos.index:
         tabela_buscape = None
         
 print(tabela_ofertas)
-time.sleep(10)
-nav.quit()
 
 
 # EXPORTANDO TABELA PARA EXCEL
-tabela_ofertas.to_excel('Projeto 2 - Google Shopping e Buscape/buscaprodutos_google_buscape.py/PYofertas.xlsx', index=False)
+tabela_ofertas.to_excel('Projeto 2 - Google Shopping e Buscape/PYofertas.xlsx', index=False)
 
 
+# ENVIANDO A PLANILHA POR EMAIL
 
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+
+# Verificando se existe alguma oferta dentro da tabela de ofertas
+if len(tabela_ofertas.index) > 0:
+    # Configurações do servidor de email
+    servidor_smtp = 'smtp.office365.com'
+    porta = 587
+    seu_email = 'thiarly.cavalcante@live.com'
+    sua_senha = '@@security$$'
+
+    # Criando o objeto MIMEMultipart para enviar o e-mail
+    msg = MIMEMultipart()
+    msg['From'] = 'Thiarly Cavalcante <thiarly.cavalcante@live.com>'
+    destino = msg['To'] = 'thiarly.cavalcante@gmail.com'
+    print(f'E-mail será enviado para: {msg["To"]}')
+    msg['Subject'] = 'Produto(s) Encontrado(s) na faixa de preço desejada'
+
+    # Adicionando o conteúdo do e-mail
+    texto_html = f"""
+    <p>Prezados,</p>
+    <p>Encontramos alguns produtos em oferta dentro da faixa de preço desejada. Segue tabela com detalhes</p>
+    {tabela_ofertas.to_html(index=False)}
+    <p>Qualquer dúvida estou à disposição</p>
+    <p>Att.,</p>
+    """
+    msg.attach(MIMEText(texto_html, 'html'))
+
+    # Enviando o e-mail
+    with smtplib.SMTP(servidor_smtp, porta) as server:
+        server.starttls()
+        server.login(seu_email, sua_senha)
+        server.sendmail(seu_email, 'thiarly.cavalcante@gmail.com', msg.as_string())
+        print(f'Email enviado com sucesso para: {destino}')
+
+
+# FINALIZANDO O NAVEGADOR
 time.sleep(10)
 nav.quit()
