@@ -107,7 +107,7 @@ def busca_google_shopping(nav, produto, termos_banidos, preco_minimo, preco_maxi
     return lista_ofertas
 
 
-###############################################################################################################################################################################
+###########################################################################################################################################################
 # DEFINIÇÃO DA FUNÇÃO BUSCA DO BUSCAPE
 
 def busca_buscape (nav, produto, termos_banidos, preco_minimo, preco_maximo):
@@ -205,7 +205,7 @@ if len(tabela_ofertas.index) > 0:
     servidor_smtp = 'smtp.office365.com'
     porta = 587
     seu_email = 'thiarly.cavalcante@live.com'
-    sua_senha = '@@security$$'
+    sua_senha = 'XXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
     # Criando o objeto MIMEMultipart para enviar o e-mail
     msg = MIMEMultipart()
