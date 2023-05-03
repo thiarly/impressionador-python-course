@@ -1,0 +1,13 @@
+
+Classe: Pessoa
+    Métodos: andar, pular, correr, nadar, dormi
+
+    Atributos: peso, altura, cor, tipo sanguíneo
+
+
+Classe: TV
+    Métodos: ligar tv, mudar canal, desligar tv, volume
+
+    Atributos: cor, tamanho da tv, smart, marca
+
+    
