@@ -16,7 +16,6 @@ class ContaCorrente():
         self.limite = -1000
         return self.limite
     
-
     def sacar_dinheiro(self, valor):
         if self.saldo - valor < self._limite_conta():
             print("Você não tem saldo suficiente para sacar esse valor.")
