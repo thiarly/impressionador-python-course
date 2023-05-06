@@ -12,18 +12,21 @@ class ContaCorrente():
         self.saldo += valor
         print('Deposito realizado {}'.format(valor))
 
-    def limite_conta(self):
+    def _limite_conta(self):
         self.limite = -1000
         return self.limite
     
 
     def sacar_dinheiro(self, valor):
-        if self.saldo - valor < self.limite_conta():
+        if self.saldo - valor < self._limite_conta():
             print("Você não tem saldo suficiente para sacar esse valor.")
             self.consultar_saldo()
         else:
             self.saldo -= valor
             print('Saque realizado {}'.format(valor))
+
+    def consultar_limite_chequeespecial(self):
+        print('Seu limite de Cheque Especial é de {}'.format(self._limite_conta()))
 
 
 
@@ -46,5 +49,5 @@ print('\n')
 print('-' *60)
 conta_thiarly.consultar_saldo()
 print('-' *60)
-
+conta_thiarly.consultar_limite_chequeespecial()
 
