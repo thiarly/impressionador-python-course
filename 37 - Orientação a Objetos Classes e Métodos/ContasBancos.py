@@ -5,6 +5,16 @@ import time
 
 
 class ContaCorrente():
+    """
+    Atributos:
+        nome (str): Nome do Cliente
+        cpf (str): CPF do cliente. Deve ser inserido com pontos e traços
+        agencia: Agência do responsável pela conta corrente
+        conta: Número da conta corrente do cliente
+        saldo: Saldo disponível na conta do cliente
+        limite: Limite de Cheque especial daquele cliente
+        transações: Histórico de transações do Cliente
+    """
 
     @staticmethod
     def _data_hora():
@@ -50,6 +60,14 @@ class ContaCorrente():
         print("Valor, Saldo, Data e Hora")
         for transacao in self.transacoes:
             print(transacao)
+            
+
+    def transferir (self, valor, conta_destino):
+        self.saldo -= valor
+        self.transacoes.append((valor, self.saldo, ContaCorrente._data_hora()))
+
+        conta_destino.saldo += valor
+        conta_destino.transacoes.append((valor, conta_destino.saldo, ContaCorrente._data_hora()))
 
 
 # Programa
@@ -60,12 +78,24 @@ conta_thiarly.consultar_saldo()
 conta_thiarly.depositar(1000)
 conta_thiarly.consultar_saldo()
 
-time.sleep(5)
 
-# sacando um dinheiro na conta
-conta_thiarly.sacar_dinheiro(1100)
-print("saldo final:")
-conta_thiarly.consultar_limite_chequeespecial()
+# # sacando um dinheiro na conta
+# conta_thiarly.sacar_dinheiro(1100)
+# print("saldo final:")
+# conta_thiarly.consultar_limite_chequeespecial()
 
 print('--'*30)
 conta_thiarly.consultar_historico_transações()
+print('--'*30)
+
+conta_luca = ContaCorrente('Luca', '022.333.344-43', 8434, 244234)
+conta_thiarly.transferir(500, conta_luca)
+
+# conta_thiarly.consultar_saldo()
+conta_luca.consultar_saldo()
+
+conta_thiarly.consultar_historico_transações()
+conta_luca.consultar_historico_transações()
+
+
+help(ContaCorrente)
