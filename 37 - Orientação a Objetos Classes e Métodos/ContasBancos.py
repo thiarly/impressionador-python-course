@@ -22,12 +22,12 @@ class ContaCorrente():
         return horario_BR.strftime('%d/%m/%Y %H:%M:%S')
     
     def __init__(self, nome, cpf, agencia, conta):
-        self._nome = nome
-        self._cpf = cpf
+        self.nome = nome
+        self.cpf = cpf
         self._saldo = 0
         self._limite = 0
-        self._agencia = agencia
-        self._conta = conta
+        self.agencia = agencia
+        self.conta = conta
         self._transacoes = []
         self.cartoes = []
 
@@ -89,17 +89,36 @@ class CartaoCredito:
         conta_corrente.cartoes.append(self)
         self._senha = '12345'
 
+
+    @property
+    def senha(self):
+        return self._senha
+
+    @senha.setter
+    def senha(self, valor):
+        if len(valor) == 4 and valor.isnumeric():
+            self._senha = print('Senha alterada, nova senha: {}'.format(valor))
+
+        else:
+            print('Nova senha inválida! {}'.format(valor))
+
+
 # Programa
 conta_thiarly = ContaCorrente("Thiarly", "044.000.111-22", 8324, 156697)
 
 
 cartao_thiarly = CartaoCredito('Thiarly', conta_thiarly)
 
-print(cartao_thiarly.conta_corrente._conta )
+print(cartao_thiarly.conta_corrente.conta )
 
 print(conta_thiarly.cartoes[0].numero)
 print(cartao_thiarly.validade)
 print(cartao_thiarly.cod_seguranca)
 
-cartao_thiarly.senha = '321'
-print(cartao_thiarly.senha)
+cartao_thiarly.senha = '3111'
+
+
+print(conta_thiarly.__dict__)
+
+
+
