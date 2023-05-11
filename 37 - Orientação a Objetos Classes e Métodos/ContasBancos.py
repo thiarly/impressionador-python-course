@@ -1,7 +1,6 @@
 from datetime import datetime
 import pytz
-import time
-
+from random import randint
 
 
 class ContaCorrente():
@@ -30,7 +29,7 @@ class ContaCorrente():
         self._agencia = agencia
         self._conta = conta
         self._transacoes = []
-        self._cartoes = []
+        self.cartoes = []
 
 
     def consultar_saldo(self):
@@ -72,14 +71,23 @@ class ContaCorrente():
 
 
 class CartaoCredito:
+
+    @staticmethod
+    def _data_hora():
+        fuso_BR = pytz.timezone('Brazil/East')
+        horario_BR = datetime.now(fuso_BR)
+        return horario_BR
+    
+
     def __init__(self, titular, conta_corrente):
-        self.numero = None
+        self.numero = randint(1000000000000000, 9999999999999999)
         self.titular = titular
-        self.validade = None
-        self.cod_seguranca = None
-        self.limite = None
+        self.validade = ('{}/{}').format(CartaoCredito._data_hora().month, CartaoCredito._data_hora().year + 5)
+        self.cod_seguranca = '{}{}{}'.format(randint(0, 9), randint(0, 9), randint(0, 9))
+        self.limite = 1000
         self.conta_corrente = conta_corrente
-        conta_corrente._cartoes.append(self)
+        conta_corrente.cartoes.append(self)
+        self._senha = '12345'
 
 # Programa
 conta_thiarly = ContaCorrente("Thiarly", "044.000.111-22", 8324, 156697)
@@ -88,3 +96,10 @@ conta_thiarly = ContaCorrente("Thiarly", "044.000.111-22", 8324, 156697)
 cartao_thiarly = CartaoCredito('Thiarly', conta_thiarly)
 
 print(cartao_thiarly.conta_corrente._conta )
+
+print(conta_thiarly.cartoes[0].numero)
+print(cartao_thiarly.validade)
+print(cartao_thiarly.cod_seguranca)
+
+cartao_thiarly.senha = '321'
+print(cartao_thiarly.senha)
