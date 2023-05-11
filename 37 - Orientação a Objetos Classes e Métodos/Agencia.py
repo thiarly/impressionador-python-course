@@ -38,6 +38,18 @@ class AgenciaVirtual(agencia):
         self.site = site
         super().__init__(telefone, cnpj, 1000)
         self.caixa = 1000000
+        self.caixa_paypal = 0
+
+
+    def depositar_paypal(self, valor):
+        self.caixa -= valor
+        self.caixa_paypal += valor
+        
+
+
+    def sacar_paypal(self, valor):
+        self.caixa_paypal -= valor
+        self.caixa += valor
     
 
 class AgenciaComum(agencia):
@@ -68,4 +80,8 @@ agencia_canudos_premium = AgenciaPremium(2434343, 23333388888)
 print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_premium.numero, agencia_canudos_premium.caixa)) 
 
 
-
+print(agencia_canudos_virtual.caixa)
+print()
+agencia_canudos_virtual.depositar_paypal(200)
+print(agencia_canudos_virtual.caixa)
+print(agencia_canudos_virtual.caixa_paypal)
