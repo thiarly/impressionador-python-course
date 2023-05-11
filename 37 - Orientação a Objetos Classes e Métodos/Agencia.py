@@ -1,3 +1,5 @@
+from random import randint
+
 class agencia:
 
     def __init__(self, telefone, cnpj, numero):
@@ -31,27 +33,39 @@ class agencia:
 
 
 class AgenciaVirtual(agencia):
-    pass
+    
+    def __init__(self, site, telefone, cnpj):
+        self.site = site
+        super().__init__(telefone, cnpj, 1000)
+        self.caixa = 1000000
+    
 
 class AgenciaComum(agencia):
-    pass
+     def __init__(self, telefone, cnpj):
+        super().__init__(telefone, cnpj, numero=randint(1001, 9999))
+        self.caixa = 2000000
+
 
 class AgenciaPremium(agencia):
-    pass
+    def __init__(self, telefone, cnpj):
+        super().__init__(telefone, cnpj, numero=randint(1001, 9999))
+        self.caixa = 5000000
 
-agencia_canudos_virtual = AgenciaVirtual(1434343, 13333388888, 14242)
-agencia_canudos_virtual.caixa = 11000
-print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_virtual.numero, agencia_canudos_virtual.caixa)) 
+
+
+
+
+
+agencia_canudos_virtual = AgenciaVirtual('www.canudos_virtual.com.br', 41044104, 11111111111)
+print('Agencia: {} Caixa: R$ {} Site: {}'.format(agencia_canudos_virtual.numero, agencia_canudos_virtual.caixa, agencia_canudos_virtual.site)) 
 print('\n')
 
-
-agencia_canudos_premium = AgenciaPremium(2434343, 23333388888, 24242)
-agencia_canudos_premium.caixa = 12000
-print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_premium.numero, agencia_canudos_premium.caixa)) 
-print('\n')
-
-
-agencia_canudos_comum = AgenciaComum(3434343, 33333388888, 34242)
-agencia_canudos_comum.caixa = 14000
+agencia_canudos_comum = AgenciaComum(3434343, 33333388888)
 print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_comum.numero, agencia_canudos_comum.caixa)) 
 print('\n')
+
+agencia_canudos_premium = AgenciaPremium(2434343, 23333388888)
+print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_premium.numero, agencia_canudos_premium.caixa)) 
+
+
+
