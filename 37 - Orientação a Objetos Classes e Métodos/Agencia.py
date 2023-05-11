@@ -29,14 +29,29 @@ class agencia:
         self.clientes.append((nome, cpf, patrimonio))
 
 
-# programa
 
-agencia_canudos = agencia(7534942639, 244524240409, 43214)
-agencia_canudos.verificar_caixa()
+class AgenciaVirtual(agencia):
+    pass
 
-agencia_canudos.emprestar_dinheiro(1200, 440393840389, 0.10)
-print(agencia_canudos.caixa)
-print(agencia_canudos.emprestimos)
+class AgenciaComum(agencia):
+    pass
 
-agencia_canudos.adicionar_cliente('Luca', 33333333555, 30000)
-print(agencia_canudos.clientes)
+class AgenciaPremium(agencia):
+    pass
+
+agencia_canudos_virtual = AgenciaVirtual(1434343, 13333388888, 14242)
+agencia_canudos_virtual.caixa = 11000
+print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_virtual.numero, agencia_canudos_virtual.caixa)) 
+print('\n')
+
+
+agencia_canudos_premium = AgenciaPremium(2434343, 23333388888, 24242)
+agencia_canudos_premium.caixa = 12000
+print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_premium.numero, agencia_canudos_premium.caixa)) 
+print('\n')
+
+
+agencia_canudos_comum = AgenciaComum(3434343, 33333388888, 34242)
+agencia_canudos_comum.caixa = 14000
+print('Agencia: {} Caixa R$ {}'.format(agencia_canudos_comum.numero, agencia_canudos_comum.caixa)) 
+print('\n')
