@@ -77,7 +77,6 @@ class CartaoCredito:
         fuso_BR = pytz.timezone('Brazil/East')
         horario_BR = datetime.now(fuso_BR)
         return horario_BR
-    
 
     def __init__(self, titular, conta_corrente):
         self.numero = randint(1000000000000000, 9999999999999999)
@@ -88,7 +87,6 @@ class CartaoCredito:
         self.conta_corrente = conta_corrente
         conta_corrente.cartoes.append(self)
         self._senha = '12345'
-
 
     @property
     def senha(self):
