@@ -18,18 +18,17 @@ class agencia:
         else:
             print('Caixa da filial está solvente R$ {:.2f}'.format(self.caixa))
 
+
     def emprestar_dinheiro(self, valor, cpf, juros):
         if self.caixa > 1000000 and valor < self.caixa:
             self.emprestimos.append((valor, cpf, juros))
-            print('Valor emprestados {:.2f}, '.format(valor))
+            print('Valor emprestados {:.2f}, '.format(valor))        
         
         else:
             print('Caixa insuficiente para emprestimo')
 
-
     def adicionar_cliente(self, nome, cpf, patrimonio):
         self.clientes.append((nome, cpf, patrimonio))
-
 
 
 class AgenciaVirtual(agencia):
@@ -40,13 +39,10 @@ class AgenciaVirtual(agencia):
         self.caixa = 1000000
         self.caixa_paypal = 0
 
-
     def depositar_paypal(self, valor):
         self.caixa -= valor
         self.caixa_paypal += valor
         
-
-
     def sacar_paypal(self, valor):
         self.caixa_paypal -= valor
         self.caixa += valor
