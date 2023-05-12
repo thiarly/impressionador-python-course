@@ -2,7 +2,7 @@ class MinhaClasse:
     """
     Esta é a docstring da classe MinhaClasse.
     """
-    
+
     def __init__(self, meu_atributo):
         """
         Inicializa um novo objeto da classe MinhaClasse.
