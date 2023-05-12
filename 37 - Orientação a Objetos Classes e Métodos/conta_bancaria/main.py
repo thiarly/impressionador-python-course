@@ -1,5 +1,5 @@
 from ContasBancos import ContaCorrente, CartaoCredito
-from Agencia import AgenciaComum, AgenciaVirtual, AgenciaPremium
+from mentoria.aulas_diversas.Agencia import AgenciaComum, AgenciaVirtual, AgenciaPremium
 
 
 # # Programa
