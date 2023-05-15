@@ -75,8 +75,8 @@ print(vendedor1.nome, vendedor1.vendas, vendedor1.bonus)
 
 # In[13]:
 
-
-get_ipython().system('pip install pyautogui')
+#
+#get_ipython().system('pip install pyautogui')
 
 
 # In[ ]:
@@ -88,7 +88,7 @@ import time
 
 # abrindo o chrome
 pyautogui.PAUSE = 1
-pyautogui.press("win")
+pyautogui.hotkey('option', 'space')
 pyautogui.write("chrome")
 pyautogui.press("enter")
 
