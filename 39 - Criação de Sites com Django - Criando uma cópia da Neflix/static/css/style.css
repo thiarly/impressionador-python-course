@@ -1,0 +1,12 @@
+.bg-gradient {
+        background: hsl(250, 24%, 15%);
+        color: hsl(0, 0%, 100%)
+}
+
+.railway-button {
+    color: var(--foreground);
+    background-color: hsl(270, 60%, 52%);
+    border-color: hsl(270, 60%, 52%);
+  }
+
+ 

@@ -1,0 +1,43 @@
+- Homepage
+
+- Fazer Login e Criar Conta (Usuário e Autenticação)
+    - Email
+    - Username
+    - Senha
+    - Filmes já vistos
+    - Editar Perfil
+
+- Filmes/Séries
+    - thumb
+    - titulo
+    - descrição
+    - categoria
+    - quantidade de views
+    - data da criação
+    - Episodio
+        - videos
+        - titulo
+     
+- Barra de Pesquisa
+
+Passo a passo instalação projeto e configuração Django.
+
+https://docs.djangoproject.com/en/4.2/ref/django-admin/
+
+1- django-admin startproject nome_projeto .
+2- gerar o link do site: python manage.py runserver
+    2.1 - python manage.py runserver 0.0.0.0:8000
+        -> gerar o link para ip da máquina local
+3- django-admin startapp filme
+4- Sempre que executar alguma mudanção no banco de dados
+    4.1- python manage.py makemigrations
+    4.2- python manage.py migrate
+5- Criando o SuperUser
+    5.1- python manage.py createsuperuser
+6- Conectando o app filme ao project interflix
+
+7- Sempre que criar um página precisa construir:
+    7.1- url - view - template
+
+
+
